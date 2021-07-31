@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrtrollerman1234
+- 👀 I’m interested in learning to code and gaming.
+- 🌱 I’m currently learning Python.
+- 📫 Contact me on Discord at mrtrollerman#4184
